@@ -1,1 +1,51 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 20px;
+}
+.inline-icon__label {
+    background-image: url(pictures/57824be698ced184ff83.svg);
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    margin: -1px 5px 0 0;
+    vertical-align: middle;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.svg__small {
+    width: 12px;
+    height: 12px;
+}
+.svg__big {
+    width: 16px;
+    height: 16px;
+}
+.label__badge {
+    position: absolute;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+}
+.cards {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(250px, 400px));
+    grid-template-rows: repeat(4, auto);
+}
+.card {
+    display: grid;
+    grid-template-rows: subgrid;
+    grid-row: span 4;
+    position: relative;
+    
+}
 
+
+
+
+@media (min-width: 560px) {
+    
+}
