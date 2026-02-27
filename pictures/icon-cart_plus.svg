@@ -1,0 +1,7 @@
+<svg id="icon-cart_plus" viewBox="0 0 23 19" xmlns="http://www.w3.org/2000/svg">
+<rect x="6" y="15" width="4" height="4" rx="2" />
+<rect x="17" y="15" width="4" height="4" rx="2" />
+<rect width="6" height="2" rx="1" />
+<rect x="5.73206" width="6" height="2" rx="1" transform="rotate(60 5.73206 0)" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18.4724 14H9.52756C8.62566 14 7.83534 13.3964 7.59803 12.5262L5.34446 4.26312C5.17096 3.62698 5.64985 3 6.30922 3H21.6907C22.3501 3 22.829 3.62698 22.6555 4.26312L20.4019 12.5262C20.1646 13.3964 19.3743 14 18.4724 14ZM12.9999 4H14.9999V7H17.9999V9H14.9999V12H12.9999V9H9.99995V7H12.9999V4Z" />
+</svg>
